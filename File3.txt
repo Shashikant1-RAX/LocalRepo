@@ -1,3 +1,6 @@
 This is a file which will fix the bug.
 
 Fixing the bugs...
+Fixing another bug that i have found...
+Fourth bug fix
+fifth bug fixed
